@@ -1,0 +1,22 @@
+{
+  "name": "toolshopwithplaywright",
+  "version": "1.0.0",
+  "description": "In this repo I covered a test suite for automation of the site ToolShop using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noemiSynyster/toolshopWithPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noemiSynyster/toolshopWithPlaywright/issues"
+  },
+  "homepage": "https://github.com/noemiSynyster/toolshopWithPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.0"
+  }
+}
